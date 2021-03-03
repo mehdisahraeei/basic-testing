@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f710309-9f1f-4694-9d45-aae25a585877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/my/testing/OtherSample/Samples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/my/testing/OtherSample/SubSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/my/testing/SubSampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/my/testing/OtherSample/SubSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/my/testing/OtherSample/SubSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/my/testing/SubSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/my/testing/SubSampleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +72,7 @@
       <recent name="com.my.testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Android JUnit.SubSampleTest">
+  <component name="RunManager" selected="Android JUnit.SubSampleTest.TestArray">
     <configuration name="SubSampleTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="testing.app" />
       <extension name="coverage">
@@ -73,6 +84,23 @@
       <option name="PACKAGE_NAME" value="com.my.testing" />
       <option name="MAIN_CLASS_NAME" value="com.my.testing.SubSampleTest" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSampleTest.TestArray" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.my.testing" />
+      <option name="MAIN_CLASS_NAME" value="com.my.testing.SubSampleTest" />
+      <option name="METHOD_NAME" value="TestArray" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
@@ -195,6 +223,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.SubSampleTest.TestArray" />
         <item itemvalue="Android JUnit.SubSampleTest" />
         <item itemvalue="Android JUnit.SubSampleTest.TestFloat" />
         <item itemvalue="Android JUnit.SubSampleTest.TestChar" />
@@ -216,26 +245,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="66" width="374" height="602" key="#com.intellij.ide.util.MemberChooser" timestamp="1614703410794">
+    <state x="491" y="66" width="374" height="602" key="#com.intellij.ide.util.MemberChooser" timestamp="1614764023047">
       <screen x="0" y="27" width="1366" height="673" />
     </state>
-    <state x="491" y="66" width="374" height="602" key="#com.intellij.ide.util.MemberChooser/0.27.1366.673@0.27.1366.673" timestamp="1614703410794" />
-    <state width="1312" height="137" key="GridCell.Tab.0.bottom" timestamp="1614703964475">
+    <state x="491" y="66" width="374" height="602" key="#com.intellij.ide.util.MemberChooser/0.27.1366.673@0.27.1366.673" timestamp="1614764023047" />
+    <state width="1312" height="136" key="GridCell.Tab.0.bottom" timestamp="1614764235674">
       <screen x="0" y="27" width="1366" height="673" />
     </state>
-    <state width="1312" height="137" key="GridCell.Tab.0.bottom/0.27.1366.673@0.27.1366.673" timestamp="1614703964475" />
-    <state width="1312" height="137" key="GridCell.Tab.0.center" timestamp="1614703964471">
+    <state width="1312" height="136" key="GridCell.Tab.0.bottom/0.27.1366.673@0.27.1366.673" timestamp="1614764235674" />
+    <state width="1312" height="136" key="GridCell.Tab.0.center" timestamp="1614764235674">
       <screen x="0" y="27" width="1366" height="673" />
     </state>
-    <state width="1312" height="137" key="GridCell.Tab.0.center/0.27.1366.673@0.27.1366.673" timestamp="1614703964471" />
-    <state width="1312" height="137" key="GridCell.Tab.0.left" timestamp="1614703964470">
+    <state width="1312" height="136" key="GridCell.Tab.0.center/0.27.1366.673@0.27.1366.673" timestamp="1614764235674" />
+    <state width="1312" height="136" key="GridCell.Tab.0.left" timestamp="1614764235673">
       <screen x="0" y="27" width="1366" height="673" />
     </state>
-    <state width="1312" height="137" key="GridCell.Tab.0.left/0.27.1366.673@0.27.1366.673" timestamp="1614703964470" />
-    <state width="1312" height="137" key="GridCell.Tab.0.right" timestamp="1614703964473">
+    <state width="1312" height="136" key="GridCell.Tab.0.left/0.27.1366.673@0.27.1366.673" timestamp="1614764235673" />
+    <state width="1312" height="136" key="GridCell.Tab.0.right" timestamp="1614764235674">
       <screen x="0" y="27" width="1366" height="673" />
     </state>
-    <state width="1312" height="137" key="GridCell.Tab.0.right/0.27.1366.673@0.27.1366.673" timestamp="1614703964473" />
+    <state width="1312" height="136" key="GridCell.Tab.0.right/0.27.1366.673@0.27.1366.673" timestamp="1614764235674" />
     <state x="404" y="134" width="548" height="466" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1614702702264">
       <screen x="0" y="27" width="1366" height="673" />
     </state>

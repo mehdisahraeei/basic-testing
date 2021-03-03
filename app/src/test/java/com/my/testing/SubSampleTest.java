@@ -2,6 +2,8 @@ package com.my.testing;
 
 import com.my.testing.OtherSample.SubSample;
 import org.junit.Test;
+
+import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
@@ -40,5 +42,13 @@ public class SubSampleTest {
         assertEquals(z, 14.53f, 0);
     }
 
+    @Test
+    public void TestArray()
+    {
+        int[] arrOld=sample.getArr();
+        int[] arrMe=new int[]{10,20,30};
+
+        assertArrayEquals(arrOld,arrMe); //compare for Arrays
+    }
 
 }
